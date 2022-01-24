@@ -12,7 +12,7 @@ public class DBUtil {
         try {
             //得到数据库连接
             Class.forName("com.mysql.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://123.57.172.73:3306/huanghenews", "shidongdong", "1233210456abc");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/huanghenews", "root", "123456");
         } catch (Exception e) {
             e.printStackTrace();
         }
