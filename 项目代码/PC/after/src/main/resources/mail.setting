@@ -1,5 +1,5 @@
 host = smtp.qq.com
 port = 587
-from = 3383378981@qq.com
-user = 3383378981
-pass = kqcdoumwcsasciei
+from = 自己的邮箱
+user = 自己的邮箱用户名
+pass = 上述邮箱的授权码
