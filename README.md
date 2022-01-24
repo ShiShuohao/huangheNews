@@ -4,14 +4,17 @@
 新闻发布与管理系统
 
 #### 软件架构
-后端：springboot、mybatis-plus;
-前端(PC端)：vue、element-plus;
-前端(移动端)：原生安卓(仅有浏览功能);
+后端：springboot、mybatis-plus
+######
+前端(PC端)：vue、element-plus
+######
+前端(移动端)：原生安卓(仅有浏览功能)
+######
 数据库：MySQL
 
 #### 安装教程
 
-直接使用
+需要修改后端的邮件服务器配置，然后即可使用发邮件验证码功能
 
 #### 使用说明
 
